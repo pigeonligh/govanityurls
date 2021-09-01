@@ -1,8 +1,8 @@
-host: rakyll.pizza
+host: gopkg.pigeonligh.com
+
+cache_max_age: 0
 
 paths:
-  /portmidi:
-    repo: https://github.com/rakyll/portmidi
+  /easygo:
+    repo: https://github.com/pigeonligh/easygo.git
 
-  /launchpad:
-    repo: https://github.com/rakyll/launchpad
