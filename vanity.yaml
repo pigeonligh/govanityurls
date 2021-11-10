@@ -5,4 +5,6 @@ cache_max_age: 0
 paths:
   /easygo:
     repo: https://github.com/pigeonligh/easygo.git
+  /openapi-gen:
+    repo: https://github.com/pigeonligh/openapi-gen.git
 
